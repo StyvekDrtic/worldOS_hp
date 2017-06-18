@@ -1,0 +1,61 @@
+/*****************************************
+
+Obecné
+
+*****************************************/
+
+html {
+  min-height: 100%;
+}
+
+h1, h2, h3, h4, h5, p, span {
+  font-size: 16px;
+  color: #403a3a;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  background: url("../img/hp.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 100%;
+}
+
+.main {
+  margin: 0 auto;
+  height: auto;
+  width: auto;
+  text-align: center;
+}
+
+.main p {
+  color: white;
+  font-weight: 100;
+  margin-bottom: 30px;
+  text-align: left;
+}
+
+.main a {
+  background: #fff;
+  color: #4dd964;
+  font-weight: 400;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-size: 20px;
+}
+
+.main div {
+  display: inline-block;
+  vertical-align: middle;
+  width: 600px;
+  margin-left: 20px;
+  text-align: left !important;
+}
+
+.main img {
+  display: inline-block;
+  vertical-align: middle;
+  width: 200px;
+  padding-top: 25px;
+}
