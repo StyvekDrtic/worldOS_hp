@@ -46,6 +46,11 @@ body {
   font-size: 20px;
 }
 
+.main a:hover {
+  background: #d2ecd7;
+  text-decoration: none;
+}
+
 .main div {
   display: inline-block;
   vertical-align: middle;
